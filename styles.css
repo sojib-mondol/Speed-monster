@@ -140,6 +140,26 @@ button {
   border: 2px solid #9dffad;
   cursor: pointer;
 }
+.blog-btn{
+  text-decoration: none;
+  
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+
+  padding: 10px 20px;
+  border: none;
+  font-size: 16px;
+  /* font-weight: bold; */
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  color: white;
+  background-color: #171717;
+  border-radius: 10px;
+  border: 2px solid #9dffad;
+  cursor: pointer;
+}
 
 #histories {
   display: grid;
